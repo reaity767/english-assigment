@@ -1,0 +1,40 @@
+
+/* css.css */
+
+.shape1 {
+
+background-image: fixed;
+backdrop-filter: blur(1px);
+width: 110%;
+height: 80px;
+box-shadow: 5px 5px 10px #292922;
+position: fixed;
+left: -10;
+
+
+
+}
+
+body {
+
+background-image: url(zzzzzzzzzzhzoo.jpg);
+background-size: 100% 50%;
+background-repeat: no-repeat;
+margin: 0;
+background-position: fixed;
+
+
+}
+
+.shape2 {
+
+background-color: white;
+box-shadow: 5px 10px 18px #292922;
+position: relative;
+width: 100%;
+color: white;
+height: 500px;
+top: 500px;
+
+
+}
